@@ -1,0 +1,36 @@
+body {background-color: E5E5E5;  font-family: 'Montserrat', sans-serif;}
+/* Right Section*/
+.RightSection {padding-left: 90px; padding-right: 220px; background-color: white;}
+.About-Me-Profession {color:  #000000;font-style: normal;font-weight: 700;font-size: 14px;line-height: 17px; margin-top: 100px;}
+.MainSection {display: flex; flex-direction: row-reverse; width: 1200px; margin: 40px auto;}
+#FirstElement {color: green;}
+.About-Me-Section { padding-top: 15px; padding-left: 15px;; width: 400px;}
+.About-Me-Section p {font-style: normal;font-weight: 400;font-size: 14px;line-height: 24px;color: #595959;}
+.ProjectSection {margin 40px;}
+.title {font-style: normal;font-weight: 700;font-size: 22px;line-height: 27px; color: #000000;}
+.a {font-style: normal;font-weight: 400;font-size: 14px;line-height: 24px;text-decoration-line: underline;color: #595959;}
+ol li {font-weight: 700;color: black;}
+.a a {color: #595959;}
+.s {color: #000000; font-weight: 700; margin-left: 10px;}
+.d {color: #FB6D3A;}
+.company {font-style: normal;font-weight: 400;font-size: 12px;line-height: 15px;color: #A8A8A8;}
+.v {color: #000000;}
+.li1 li {ont-family: 'Montserrat';font-style: normal;font-weight: 400;font-size: 14px;line-height: 24px;color: #595959;}
+.ProjectSection ol {padding-left: 15px;}
+.Work-Experience-Section h3 {font-style: normal;font-weight: 700;font-size: 16px;line-height: 20px;color: #000000;}
+.Work-Experience-Section ul {padding-left: 18px;}
+.Work-Experience-Section {margin-top: 50px;}
+.i {padding-left: 18px;}
+.name {font-style: normal;margin-top: 30px; font-weight: 700;font-size: 45px;line-height: 55px;}
+/* Sidebar Styles */
+.Sidebar-Section {background-color: #1E2939; width: 370px; padding-top: 40px;}
+.SidebarTitle {font-style: normal;font-weight: 700;font-size: 22px;line-height: 27px; color: white;}
+.contact {color: white; font-style: normal; font-weight: 700; font-size: 14px; line-height: 24px; margin-right: 7px; margin-left: 40px;}
+.contact2 {font-style: normal;font-weight: 400;font-size: 14px;line-height: 24px;color: #8F949C;}
+.contacts {margin-left: 40px; font-style: normal;font-weight: 700;font-size: 22px;line-height: 27px; color: white;}
+.techSkills ul {color: #FB6D3A;width: 121px;height: 135px;left: 80px;top: 615px;margin-left: 20px;}
+.techSkills ul li span {color: white;font-style: normal;font-weight: 400;font-size: 14px;line-height: 18px;}
+.softskills {color: white;}
+.softskills span {color: white;}
+.softskills li {color: #FB6D3A; margin-left: 20px;}
+.softskills h2 {margin-left: 40px;}
